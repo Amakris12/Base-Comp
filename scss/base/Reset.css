@@ -1,0 +1,58 @@
+body {
+  background-color: none;
+  background-image: none;
+  background-attachment: none;
+  overflow-x: hidden;
+}
+body #header {
+  display: none;
+  box-shadow: none;
+  height: none;
+  width: none;
+}
+body #navbar {
+  display: none;
+  box-shadow: none;
+  margin-top: none;
+  height: none;
+  width: none;
+}
+body #body {
+  display: none;
+  box-shadow: none;
+  margin-top: none;
+  height: none;
+  width: none;
+}
+body #side {
+  display: none;
+  box-shadow: none;
+  margin-top: none;
+  height: none;
+  width: none;
+  position: absolute;
+  right: none;
+  top: none;
+}
+body #body2 {
+  display: none;
+  box-shadow: none;
+  margin-top: none;
+  height: none;
+  width: none;
+  position: absolute;
+  right: none;
+}
+body #footer {
+  display: none;
+  width: none;
+  box-shadow: none;
+  height: none;
+  position: relative;
+  top: none;
+}
+body h1 {
+  display: none;
+  color: none;
+  text-align: none;
+}/*# sourceMappingURL=Reset.css.map */
